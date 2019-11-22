@@ -1,0 +1,10 @@
+__pycache__/*
+*.cfg
+.ipynb_checkpoints/*
+.DS_Store
+*.pyc
+*.png
+*.jpg
+*.pkl
+*.Rapp.history
+data/*
